@@ -1,1 +1,7 @@
-
+State Estimation and Localization for Self-Driving Cars conatins the following modules:
+Module 0: Welcome to Course 2: State Estimation and Localization for Self-Driving Cars
+Module 1: Least Squares
+Module 2: State Estimation - Linear and Nonlinear Kalman Filters
+Module 3: GNSS/INS Sensing for Pose Estimation
+Module 4: LIDAR Sensing
+Module 5: Putting It together - An Autonomous Vehicle State Estimator
