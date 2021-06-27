@@ -1,1 +1,8 @@
-
+Visual Perception for Self-Driving Cars contains the following modules:
+Module 0: Welcome to Course 3: Visual Perception for Self-Driving Cars
+Module 1: Basics of 3D Computer Vision
+Module 2: Visual Features - Detection, Description and Matching
+Module 3: Feedforward Neural Networks
+Module 4: 2D Object Detection
+Module 5: Semantic Segmentation
+Module 6: Putting it together - Perception of dynamic objects in the drivable region
