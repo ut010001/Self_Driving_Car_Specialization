@@ -1,1 +1,10 @@
 
+Motion Planing for the self driving cars contains the following modules:
+Module 0: Welcome to Course 4: Motion Planning for Self-Driving Cars
+Module 1: Module 1: The Planning Problem
+Module 2: Mapping for Planning
+Module 3: Mission Planning in Driving Environments
+Module 4: Dynamic Object Interactions
+Module 5: Principles of Behaviour Planning
+Module 6: Reactive Planning in Static Environments
+Module 7: Putting it all together - Smooth Local Planning
